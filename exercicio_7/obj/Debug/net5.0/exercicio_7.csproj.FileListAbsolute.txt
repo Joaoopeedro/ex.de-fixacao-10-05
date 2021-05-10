@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\exercicio_7.exe
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\exercicio_7.deps.json
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\exercicio_7.runtimeconfig.json
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\exercicio_7.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\exercicio_7.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\ref\exercicio_7.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\bin\Debug\net5.0\exercicio_7.pdb
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.AssemblyInfo.cs
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\ref\exercicio_7.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.pdb
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_7\obj\Debug\net5.0\exercicio_7.genruntimeconfig.cache

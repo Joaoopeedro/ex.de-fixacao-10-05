@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\exercicio_1.exe
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\exercicio_1.deps.json
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\exercicio_1.runtimeconfig.json
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\exercicio_1.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\exercicio_1.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\ref\exercicio_1.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\bin\Debug\net5.0\exercicio_1.pdb
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.AssemblyInfo.cs
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\ref\exercicio_1.dll
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.pdb
+C:\Users\user\Documents\backend_1\exercicios- aula10.05\exercicio_1\obj\Debug\net5.0\exercicio_1.genruntimeconfig.cache
