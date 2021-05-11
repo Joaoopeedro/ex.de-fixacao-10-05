@@ -11,7 +11,7 @@ namespace exercicio_6
             // string nomeCitado = "";
 
 
-            for (var i = 0; i < 10; i++)
+            for (var i = 0; i < nome.Length; i++)
             {
                 Console.WriteLine($"Escreava o {i + 1}° nome:");
                 nome[i] = Console.ReadLine().ToLower();
@@ -22,7 +22,7 @@ namespace exercicio_6
             string nome2 = Console.ReadLine().ToLower();
 
             string chamado = "";
-            for (var i = 0; i < 10; i++)
+            for (var i = 0; i < nome.Length; i++)
             {
                 if (nome2 == nome[i])
                 {

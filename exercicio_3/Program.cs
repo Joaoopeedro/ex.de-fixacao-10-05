@@ -16,20 +16,21 @@ namespace exercicio_3
             double preco = double.Parse(Console.ReadLine());
 
             double total = quantidade * preco ;
+            Console.WriteLine($"O valor total dos produtos é de R$ {(total).ToString("N2")}");
 
             if (quantidade <= 5)
             {
                 double totalPagar = total * 0.98;
-                Console.WriteLine("O valor a pagar é de "+ totalPagar.ToString("F") + " reais");
+                Console.WriteLine("O valor a pagar é de R$ "+ totalPagar.ToString("F") );
             }
             else if (quantidade > 5 && quantidade<= 10)
             {
                 double totalPagar = total * 0.97;
-                Console.WriteLine("O valor a pagar é de "+ totalPagar.ToString("F") + " reais");
+                Console.WriteLine("O valor a pagar é de R$ "+ totalPagar.ToString("F")  );
                 
             }else{
                 double totalPagar = total * 0.95;
-                Console.WriteLine("O valor a pagar é de "+ totalPagar.ToString("F")  + " reais");
+                Console.WriteLine("O valor a pagar é de R$ "+ totalPagar.ToString("F")  );
 
             }
 

@@ -21,14 +21,14 @@ namespace exercicio_4
                 
             }
             Array.Sort(numeros);
-            Console.Write("\n\n");
-            foreach (var i in numeros)
-            {
-                Console.WriteLine(i);
-            }
+            // foreach (var i in numeros)
+            // {
+            //     Console.WriteLine(i);
+            // }
             Console.WriteLine("");
-            Console.WriteLine($"O maior numero é: {numeros[9]}");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine($"O menor numero é: {numeros[0]}");
+            Console.WriteLine($"O maior numero é: {numeros[(numeros.Length - 1)]}");
 
 
 

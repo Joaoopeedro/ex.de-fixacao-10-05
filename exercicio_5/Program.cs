@@ -11,7 +11,7 @@ namespace exercicio_5
             for (var i = 1; i <= 10 ; i++)
             {
                 
-                Console.WriteLine($"Tabuada do {i}");
+                Console.WriteLine($"\nTabuada do {i}");
 
                 for (var r = 1; r < 11; r++)
                 {
